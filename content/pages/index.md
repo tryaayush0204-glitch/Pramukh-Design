@@ -7,7 +7,7 @@ sections:
       text: We build brands that build empires.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions:
       - label: Let's Connect
