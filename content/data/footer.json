@@ -32,17 +32,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "type": "Button",
-                "label": "Publication Design",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "style": "primary",
-                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
