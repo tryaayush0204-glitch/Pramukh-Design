@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: L
+      text: We build brands that build empires.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
