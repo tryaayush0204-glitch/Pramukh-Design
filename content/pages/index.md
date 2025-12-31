@@ -131,7 +131,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-      - title: 200%
+      - title: Print & Publication Design
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
