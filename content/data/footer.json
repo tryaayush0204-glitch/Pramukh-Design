@@ -9,14 +9,6 @@
         "title": "Services",
         "links": [
             {
-                "label": "Brand & Identity",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Button",
                 "label": "Get started",
                 "altText": "",
