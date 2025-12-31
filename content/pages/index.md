@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Logo Design
