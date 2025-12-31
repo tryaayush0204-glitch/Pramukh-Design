@@ -17,14 +17,6 @@
                 "type": "Link"
             },
             {
-                "label": "Packaging Design",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Button",
                 "label": "Get started",
                 "altText": "",
