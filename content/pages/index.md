@@ -10,7 +10,7 @@ sections:
     subtitle: Subtitle goes here
     text: ''
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
