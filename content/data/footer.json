@@ -9,15 +9,6 @@
         "title": "Services",
         "links": [
             {
-                "label": "Logo Design",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Brand & Identity",
                 "url": "/pricing",
                 "icon": "arrowRight",
