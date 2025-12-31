@@ -46,7 +46,7 @@
             },
             {
                 "type": "Button",
-                "label": "Publication Design",
+                "label": "",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
