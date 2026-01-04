@@ -290,7 +290,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/3D.jpg
+      url: /images/Pramukh Design Logo_B.png
       altText: Dope design preview
     badge:
       type: Badge
