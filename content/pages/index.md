@@ -54,10 +54,7 @@ sections:
         subtitle: Numbers Done
         text: >
           Whether you're a startup or an established business, we create logos
-          that are distinctive, timeless, and instantly recognizable. Our
-          approach is strategic and partnership-driven—we immerse ourselves in
-          your brand's story, uncover its essence, and craft a logo that not
-          only captures attention but authentically represents who you are.
+          that are distinctive, timeless, and instantly recognizable.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
