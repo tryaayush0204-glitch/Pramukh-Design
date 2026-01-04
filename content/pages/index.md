@@ -272,10 +272,11 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      Our in-house design studio is dedicated to delivering effective, creative,
-      and practical design solutions for all internal and client-facing needs.
-      We focus on building strong visual communication through branding,
-      graphics, digital content, packaging, and strategic design thinking.
+      <div style="text-align: left">Our in-house design studio is dedicated to
+      delivering effective, creative, and practical design solutions for all
+      internal and client-facing needs. We focus on building strong visual
+      communication through branding, graphics, digital content, packaging, and
+      strategic design thinking.</div>
 
 
       We work closely with teams to understand project objectives, maintain
