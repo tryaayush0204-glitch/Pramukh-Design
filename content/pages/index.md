@@ -272,8 +272,17 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our in-house design studio is dedicated to delivering effective, creative,
+      and practical design solutions for all internal and client-facing needs.
+      We focus on building strong visual communication through branding,
+      graphics, digital content, packaging, and strategic design thinking.
+
+
+      We work closely with teams to understand project objectives, maintain
+      brand consistency, and ensure high-quality output across all platforms.
+      With a streamlined workflow and a collaborative mindset, the studio aims
+      to enhance brand presence, improve user experience, and support the
+      organization’s overall creative growth.
     actions: []
     media:
       type: ImageBlock
