@@ -286,7 +286,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Pramukh Design Logo_B.png
+      url: /images/Pramukh Design Logo_B.jpg
       altText: Dope design preview
     badge:
       type: Badge
