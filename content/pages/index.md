@@ -57,10 +57,7 @@ sections:
           that are distinctive, timeless, and instantly recognizable. Our
           approach is strategic and partnership-driven—we immerse ourselves in
           your brand's story, uncover its essence, and craft a logo that not
-          only captures attention but authentically represents who you are. From
-          your website and product packaging to social media profiles and
-          beyond, we ensure your logo performs flawlessly across every platform
-          and touchpoint.
+          only captures attention but authentically represents who you are.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
