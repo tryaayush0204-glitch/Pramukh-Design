@@ -1,37 +1,34 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Social media.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "type": "Button",
+                "label": "Get started",
+                "altText": "",
                 "url": "/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "style": "primary",
+                "elementId": ""
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
+                "type": "Button",
+                "label": "Get started",
+                "altText": "",
                 "url": "/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
