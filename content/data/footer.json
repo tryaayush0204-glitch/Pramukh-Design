@@ -21,17 +21,6 @@
             },
             {
                 "type": "Button",
-                "label": "Packaging Design",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
                 "label": "Print & Publication Design",
                 "altText": "",
                 "url": "/",
