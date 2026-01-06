@@ -4,30 +4,52 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
         "title": "Services",
         "links": [
             {
-                "type": "Button",
-                "label": "Get started",
-                "altText": "",
-                "url": "/",
+                "type": "Link",
+                "label": "Logo Design",
+                "altText": "Design Page",
+                "url": "/Logo Design",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "primary",
+                "style": "secondary",
                 "elementId": ""
             },
             {
-                "type": "Button",
-                "label": "Get started",
+                "type": "Link",
+                "label": "Brand & Identity",
                 "altText": "",
-                "url": "/",
+                "url": "/Brand & Identity",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "primary",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Packaging Design",
+                "altText": "",
+                "url": "/Packaging Design",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Print & Publication Design",
+                "altText": "",
+                "url": "/Print & Publication Design",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
@@ -58,21 +80,9 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
             "type": "Social"
         },
         {

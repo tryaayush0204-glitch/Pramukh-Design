@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "ABOUT US",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "SERVCIES",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -30,50 +30,18 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "PORTFOLIO",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
+            "label": "Let's Connect",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",

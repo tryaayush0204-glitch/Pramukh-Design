@@ -52,10 +52,9 @@ sections:
       - type: FeaturedItem
         title: Logo Design
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Whether you're a startup or an established business, we create logos
+          that are distinctive, timeless, and instantly recognizable.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -268,47 +267,33 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      text: About us
+      color: text-dark
+    subtitle: ''
+    text: >
+      <div style="text-align: left">Our in-house design studio is dedicated to
+      delivering effective, creative, and practical design solutions for all
+      internal and client-facing needs. We focus on building strong visual
+      communication through branding, graphics, digital content, packaging, and
+      strategic design thinking.</div>
+
+
+      We work closely with teams to understand project objectives, maintain
+      brand consistency, and ensure high-quality output across all platforms.
+      With a streamlined workflow and a collaborative mindset, the studio aims
+      to enhance brand presence, improve user experience, and support the
+      organization’s overall creative growth.
     actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
+      type: ImageBlock
+      url: /images/Pramukh Design Logo_B.jpg
+      altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
+        alignItems: center
+        flexDirection: row-reverse
   - title:
       text: Social Media Management
       color: text-dark
@@ -636,7 +621,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Let's Connect
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
