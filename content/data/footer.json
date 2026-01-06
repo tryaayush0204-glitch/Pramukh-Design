@@ -10,9 +10,9 @@
         "links": [
             {
                 "type": "Link",
-                "label": "Brand & Identity",
+                "label": "Logo Design",
                 "altText": "",
-                "url": "/Brand & Identity",
+                "url": "/Logo Design",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -21,9 +21,9 @@
             },
             {
                 "type": "Link",
-                "label": "Logo Design",
+                "label": "Brand & Identity",
                 "altText": "",
-                "url": "/Logo Design",
+                "url": "/Brand & Identity",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
