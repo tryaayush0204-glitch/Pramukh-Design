@@ -10,17 +10,6 @@
         "links": [
             {
                 "type": "Button",
-                "label": "Logo Design",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Button",
                 "label": "Brand & Identity",
                 "altText": "",
                 "url": "/",
