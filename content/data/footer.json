@@ -10,17 +10,6 @@
         "links": [
             {
                 "type": "Link",
-                "altText": "",
-                "url": "/Logo Design",
-                "showIcon": true,
-                "icon": "facebook",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": "",
-                "label": "Logo Design"
-            },
-            {
-                "type": "Link",
                 "label": "Brand & Identity",
                 "altText": "",
                 "url": "/Brand & Identity",
