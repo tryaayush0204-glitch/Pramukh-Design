@@ -7,19 +7,7 @@
     "text": "",
     "primaryLinks": {
         "title": "Services",
-        "links": [
-            {
-                "type": "Button",
-                "label": "Brand & Identity",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
