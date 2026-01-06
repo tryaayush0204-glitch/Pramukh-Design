@@ -270,7 +270,7 @@ sections:
       type: TitleBlock
       text: About us
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       <div style="text-align: left">Our in-house design studio is dedicated to
       delivering effective, creative, and practical design solutions for all
